@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Better CoffeeScript",
+		"Diffy",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Dracula Color Scheme",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"GitStatus",
+		"HTMLBeautify",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint"
+	]
+}
